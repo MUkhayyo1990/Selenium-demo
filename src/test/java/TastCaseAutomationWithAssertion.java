@@ -3,6 +3,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 
 public class TastCaseAutomationWithAssertion {
+
+    // Demo on the pull and push
     public static void main(String[] args) {
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.google.com/");
